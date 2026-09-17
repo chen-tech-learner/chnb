@@ -1,16 +1,5 @@
 ﻿{
-   "lives": [
-    {
-      "name": "天上人间",
-      "type": 0,
-      "url": "clan://localhost/6758/天上人间/FL.txt",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "https://diyp20.112114.xyz/",
-      "logo": "https://gd-hbimg.huaban.com/ca8b4e7379e601bca6eb21c33c1994e59e991b481ec6c7-RbvXmL_fw658"
-    }
-  ],
-  "sites": [
+   "sites": [
     {
       "key": "*乐播资源",
       "name": "🔞乐播资源",
