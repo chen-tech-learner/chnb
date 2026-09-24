@@ -1,8 +1,8 @@
 ﻿{
    "sites": [
     {
-      "key": "*乐播资源",
-      "name": "🔞乐播资源",
+      "key": "*lebaozhiyuan",
+      "name": "🔥全网｜影视合集🔥",
       "type": 1,
       "api": "https://lbapi9.com/api.php/provide/vod/",
       "searchable": 1,
@@ -10,46 +10,46 @@
       "filterable": 0
     },
     {
-      "key": "💞番号资源💞",
-      "name": "💞番号资源💞",
+      "key": "fanhaozhiyuan",
+      "name": "🔥全网｜影视合集🔥1",
       "type": 1,
       "api": "http://fhapi9.com/api.php/provide/vod/",
       "searchable": 0,
       "quickSearch": 0
     },
     {
-      "key": "💞乐播资源💞",
-      "name": "💞乐播资源💞",
+      "key": "lebao",
+      "name": "🔥全网｜影视合集🔥2",
       "type": 1,
       "api": "https://lbapi9.com/api.php/provide/vod/",
       "searchable": 0,
       "quickSearch": 0
     },
     {
-      "key": "番号资源",
-      "name": "番号资源(卡切)",
+      "key": "fanhao",
+      "name": "🔥全网｜影视合集🔥3",
       "type": 1,
       "api": "http://fhapi9.com/api.php/provide/vod/at/json",
       "searchable": 1,
       "quickSearch": 1
     },
     {
-      "key": "*番号资源",
-      "name": "*番号资源",
+      "key": "*fanzhiyuan",
+      "name": "🔥全网｜影视合集🔥4",
       "type": 1,
       "api": "http://fhapi9.com/api.php/provide/vod/",
       "searchable": 0,
       "quickSearch": 0
     },
     {
-      "key": "*番号",
-      "name": "*番号",
+      "key": "*haozhi",
+      "name": "🔥全网｜影视合集🔥5",
       "type": 1,
       "api": "http://fhapi9.com/api.php/provide/vod/"
     },
     {
-      "key": "*乐播资源",
-      "name": "*乐播资源",
+      "key": "lebaoyuan",
+      "name": "🔥全网｜影视合集🔥6",
       "type": 1,
       "api": "https://lbapi9.com/api.php/provide/vod/",
       "searchable": 0,
@@ -57,7 +57,7 @@
     },
     {
       "key": "lbapi9.com",
-      "name": "成人09",
+      "name": "🔥全网｜影视合集🔥7",
       "type": 1,
       "api": "https://lbapi9.com/api.php/provide/vod/",
       "quickSearch": 1,
