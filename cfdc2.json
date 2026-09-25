@@ -1,5 +1,6 @@
 ﻿{
-   "sites": [
+    "spider":"https://gh‑proxy.org/raw.githubusercontent.com/hebijunge/tvbox3/main/deps/spider.jar",
+    "sites": [
     {
       "key": "*lebaozhiyuan",
       "name": "🔥全网｜影视合集🔥",
